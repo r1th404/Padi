@@ -1,4 +1,6 @@
 streamlit
 numpy
 Pillow
-tflite-runtime==2.14.0
+onnxruntime
+
+
